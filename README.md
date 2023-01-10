@@ -8,6 +8,7 @@
 ## 🧐 About
 
 - 👨‍💻 My portfolio: https://piotr.rzadkowolski.dev/
+- 🏢 My company: https://erzet.dev/
 - 📫 How to reach me: p.rzadkowolski@gmail.com
 
 - :computer: My repository: 
