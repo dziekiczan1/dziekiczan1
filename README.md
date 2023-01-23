@@ -9,6 +9,7 @@
 
 - 👨‍💻 My portfolio: https://piotr.rzadkowolski.dev/
 - 🏢 My company: https://erzet.dev/
+- 💼 LinkedIn: https://www.linkedin.com/in/piotr-rzadkowolski-a0a44411b/
 - 📫 How to reach me: p.rzadkowolski@gmail.com
 
 - :computer: My repository: 
