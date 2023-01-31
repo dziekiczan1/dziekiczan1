@@ -2,7 +2,7 @@
 
 <h3>Front-end developer.</h3>
 
-- :books: I’m currently learning Typescript, React and Node.js.
+- :books: I’m currently learning Typescript, React Native, React and Node.js.
 
 
 ## 🧐 About
