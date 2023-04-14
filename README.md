@@ -3,7 +3,7 @@
 <h3>Front-end developer.</h3>
 
 - :books: I’m currently learning Typescript, React Native, and Node.js. 
-- On a daily basis, I work as a frontend developer in a software house where I am constantly improving my skills.
+- 🖥️ On a daily basis, I work as a frontend developer in a software house where I am constantly improving my skills.
 
 
 ## 🧐 About
