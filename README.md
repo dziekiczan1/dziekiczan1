@@ -3,7 +3,7 @@
 <h3>Front-end developer.</h3>
 
 - 🖥️ On a daily basis, I work as a frontend developer in a software house where I am constantly improving my skills.
-- ⌛ In my free time I create my own RPG from scratch.
+- 🕰️ In my free time I create my own RPG from scratch.
 - :books: I am currently expanding my knowledge of TypeScript, Next and Node.js.
 
 ## 🧐 About
