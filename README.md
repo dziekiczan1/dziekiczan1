@@ -16,5 +16,5 @@
 - :computer: My repository: 
 
 <a href="https://github.com/dziekiczan1?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dziekiczan1&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dziekiczan1&count_private=true&layout=compact&hide=makefile,shell&theme=tokyonight&bg_color=00000000&title_color=aa7dfc&text_color=c9d1d9&border_color=aa7dfc&border_radius=12" />
 </a>
